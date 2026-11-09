@@ -1,0 +1,2 @@
+# tallerSecuencialPython
+tallerSecuencialPython
